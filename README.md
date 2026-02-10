@@ -16,3 +16,5 @@ Institut für Rechtsmedizin der Universität Basel
 - Linda Hauenstein
 - Thomas Rost
 - Joel Bottoni
+
+Identifiable regions were irreversibly masked prior to upload for ethical reasons.
